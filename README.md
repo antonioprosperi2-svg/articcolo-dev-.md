@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://beeenginejs.com/wp-content/uploads/2026/09/Gemini_Generated_Image_c81o98c81o98c81o.jpg" alt="BeeLadybug" width="720">
+</p>
+
 ## 🐝 → 🐞 Il Distacco: da modulo interno a pacchetto universale
 
 `BeeLadybug` nasce **dentro** BeeEngine (v2.4.0): un modulo di debug scritto per
